@@ -6,6 +6,8 @@
 
 BITGUARD AI is an AI-powered investigation layer for Bitcoin transaction traffic that combines anomaly detection, transaction/entity graph analysis, autonomous investigation, evidence correlation, and explainable risk scoring.
 
+**Team Members : Vansh Bhatia , Vishal Singh , Kartik , Pratyaksh Negi , Pragya Singh**
+
 ## Core Pipeline
 
 **MONITOR → DETECT → CONNECT → INVESTIGATE → EXPLAIN → PRIORITIZE**
