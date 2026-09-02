@@ -49,9 +49,9 @@ BITGUARD AI aims to automate the investigation process by:
 
 ## Project Status
 
-**Prototype / MVP in development**
+**Status: Concept & Architecture Phase**
 
-The repository currently contains the project architecture, research references, and implementation plan. Core modules are being developed.
+The repository currently contains the proposed architecture, technical approach, research references, and implementation roadmap. The working prototype is planned for development during the hackathon.
 
 ## Future Integration
 
